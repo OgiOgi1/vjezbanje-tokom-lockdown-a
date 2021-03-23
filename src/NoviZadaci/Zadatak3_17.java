@@ -1,4 +1,4 @@
-package Zadaci;
+package NoviZadaci;
 
 import java.util.Random;
 import java.util.Scanner;
