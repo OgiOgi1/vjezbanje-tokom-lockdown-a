@@ -1,3 +1,5 @@
+package Vjezbe;
+
 public class Zadatak2_7 {
     public static void main(String[] args) {
         int minute = 1080000;

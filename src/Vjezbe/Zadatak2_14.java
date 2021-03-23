@@ -1,3 +1,5 @@
+package Vjezbe;
+
 import java.util.Scanner;
 
 public class Zadatak2_14 {

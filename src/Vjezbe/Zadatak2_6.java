@@ -1,3 +1,5 @@
+package Vjezbe;
+
 public class Zadatak2_6 {
     public static void main(String[] args) {
         System.out.println(intager(222));
