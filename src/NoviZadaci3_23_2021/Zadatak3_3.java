@@ -1,4 +1,4 @@
-package NoviZadaci;
+package NoviZadaci3_23_2021;
 
 import java.util.Scanner;
 

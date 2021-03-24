@@ -1,4 +1,4 @@
-package Vjezbe;
+package Zadaci3_22_2021;
 
 public class Zadatak2_18 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Vjezbe;
+package Zadaci3_22_2021;
 
 import java.util.Scanner;
 

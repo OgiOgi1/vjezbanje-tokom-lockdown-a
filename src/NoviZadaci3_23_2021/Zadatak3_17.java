@@ -1,6 +1,5 @@
-package NoviZadaci;
+package NoviZadaci3_23_2021;
 
-import java.util.Random;
 import java.util.Scanner;
 
 public class Zadatak3_17 {
